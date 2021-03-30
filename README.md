@@ -19,15 +19,16 @@ Offline Functionality:
 
 * Enter deposits offline
 
-![Screenshot](/public/assets/images/addOffline.png)
-
 ![Screenshot](/public/assets/images/addOffline_1.png)
+
+![Screenshot](/public/assets/images/addOffline.png)
 
 * Enter expenses offline
 
+![Screenshot](/public/assets/images/subtractOfline_1.png)
+
 ![Screenshot](/public/assets/images/subtractOffline.png)
 
-![Screenshot](/public/assets/images/subtractOfline_1.png)
 
 * When brought back online:
 
