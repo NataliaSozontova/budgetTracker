@@ -41,24 +41,24 @@ https://github.com/NataliaSozontova/budgetTracker
 
 * Open application live URL in your browser.
 
-
 ## Tests
 
 * There are no tests yet for this application
 
 ## Known Bugs
-* Delete burgers from devoured list
- has not been implimented yet
+* Not known
 
 ## Support
 Please email me for further questions at nasozontova@gmail.com
 
 ## Technologies Used
-NodeJS
-JavaScript
-MongoDb
-Express
-indexedDB
+* NodeJS
+* JavaScript
+* MongoDB
+* Mongooze
+* Express
+* Compression 
+* indexedDB
 
 ## Contribution Guidlines
 Direct link to repository: 
