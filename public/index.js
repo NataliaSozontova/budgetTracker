@@ -7,7 +7,12 @@ fetch("/api/transaction")
   })
   .then(data => {
     // save db data on global variable
+    console.log("data is " + data);
     transactions = data;
+
+    if(data.err){
+      transactions=[];
+    }
 
     populateTotal();
     populateTable();
