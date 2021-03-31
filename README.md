@@ -40,6 +40,7 @@ Offline entries should be added to tracker.
 https://github.com/NataliaSozontova/budgetTracker
 
 * Open application live URL in your browser.
+https://secret-tor-32551.herokuapp.com/
 
 ## Tests
 
