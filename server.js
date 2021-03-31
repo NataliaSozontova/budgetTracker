@@ -15,8 +15,6 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-// const MONGODB_URI = 'mongodb+srv://SozNatalie:testPassword@cluster0.uo6h4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
-
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/budget", {
   useNewUrlParser: true,
   useFindAndModify: false,
